@@ -16,7 +16,7 @@ json
 ## Download PandaSet dataset.
 PandaSet dataset download link: https://pandaset.org/
 
-**Copy nuscene data to ./PandaSet**
+**Copy PandaSet data to ./PandaSet**
 
 ## Download Pandaset devkit
 dev-kit: https://github.com/scaleapi/pandaset-devkit
